@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Executors/RCTJSCExecutor.m \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Modules/RCTSourceCode.h

@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTWebSocketProxy.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTWebSocketProxyDelegate.h

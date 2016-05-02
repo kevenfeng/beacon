@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTScrollView.m \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTView.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Layout/Layout.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTRefreshControl.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/UIView+Private.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/UIView+React.h

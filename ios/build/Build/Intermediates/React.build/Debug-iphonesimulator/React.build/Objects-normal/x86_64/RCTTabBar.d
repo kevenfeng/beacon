@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTView.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/kevenfeng/WebstormProjects/beacon/node_modules/react-native/React/Views/UIView+React.h
